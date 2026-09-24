@@ -1,0 +1,6 @@
+{
+  "name": "CUCA - Christ University Commerce Association",
+  "description": "The official digital platform for Christ University Commerce Association (CUCA), Department of Commerce, Christ University Bengaluru. Showcasing initiatives, events, Pareekshana, Prashnotri, team, and live fest portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
